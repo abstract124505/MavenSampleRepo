@@ -28,6 +28,7 @@ public class FunnyServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		PrintWriter pw = response.getWriter();
 		pw.println("here is the do get method in action!");
+		pw.println("this is another statement to test sample commit");
 		
 	}
 
