@@ -18,6 +18,7 @@ public class FunnyServlet extends HttpServlet {
      * Default constructor. 
      */
     public FunnyServlet() {
+    	
         // TODO Auto-generated constructor stub
     }
 
